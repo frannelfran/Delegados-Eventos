@@ -15,13 +15,13 @@ public class recoleccionEscudos : MonoBehaviour
         {
             puntuacion += 5;
             Debug.Log("Recolectado Escudo1. Puntos: " + puntuacion);
-            Destroy(other.gameObject);
+            other.gameObject.SetActive(false);
         }
         else if (other.gameObject.CompareTag("escudoTipo2"))
         {
             puntuacion += 10;
             Debug.Log("Recolectado Escudo2. Puntos: " + puntuacion);
-            Destroy(other.gameObject);
+            other.gameObject.SetActive(false);
         }
 
     }

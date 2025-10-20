@@ -17,4 +17,10 @@ https://github.com/user-attachments/assets/2e86fc31-0cd7-4e95-b3fe-77afaf3a5035
 
 https://github.com/user-attachments/assets/91c01b62-4786-43e4-8efc-946cc6c40f1b
 
+5. Implementar la mecánica de recolectar escudos en la escena que actualicen la puntuación del jugador. Los escudos de tipo 1 suman 5 puntos y los de tipo 2 suman 10. Mostrar la puntuación en la consola.
+
+https://github.com/user-attachments/assets/3a7cd0a7-651f-4af0-941c-64d28a65f462
+
+6. Partiendo del script anterior crea una interfaz que muestre la puntuación que va obteniendo el cubo.
+
 
