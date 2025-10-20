@@ -15,5 +15,6 @@ https://github.com/user-attachments/assets/2e86fc31-0cd7-4e95-b3fe-77afaf3a5035
 
 4. Cuando el cubo se aproxima al objeto de referencia, los humanoides del grupo 1 se teletransportan a un escudo objetivo que debes fijar de antemano.Los humanoides del grupo 2 se orientan hacia un objeto ubicado en la escena con ese propósito.
 
+https://github.com/user-attachments/assets/91c01b62-4786-43e4-8efc-946cc6c40f1b
 
 
