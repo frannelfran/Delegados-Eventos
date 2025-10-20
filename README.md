@@ -24,3 +24,7 @@ https://github.com/user-attachments/assets/3a7cd0a7-651f-4af0-941c-64d28a65f462
 6. Partiendo del script anterior crea una interfaz que muestre la puntuación que va obteniendo el cubo.
 
 https://github.com/user-attachments/assets/7482bb8c-8cdc-4379-b563-0614b2c119e3
+
+7. Partiendo de los ejercicios anteriores, implementa una mecánica en la que cada 100 puntos el jugador obtenga una recompensa que se muestre en la UI.
+
+https://github.com/user-attachments/assets/0d76fe01-a929-4b36-ac45-c6042cd5c1f6
